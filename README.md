@@ -1,7 +1,7 @@
 CAB302 Software Development
 ===========================
 
-# Week 8: Serialisation and Network Connectivity
+# Week 9: Serialisation and Network Connectivity
 
 This practical involves working with the Address Book application from last week, but this time, you will be using it to store and retrieve details from:
 * A file
